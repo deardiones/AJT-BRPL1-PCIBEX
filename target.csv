@@ -1,0 +1,65 @@
+group,item,sentence,lexicon,noun,condition
+A,1,O cozinheiro colocou abacate no prato.,abacate,CE,CE+S
+A,2,A mãe colocou flor no vaso.,flor,CNE,CNE+S
+A,3,O professor trouxe maçãs da escola.,maçãs,CE,CE+P
+A,4,A aluna trouxe livros da feira.,livros,CNE,CNE+P
+A,5,A diarista encontrou pirulito no guarda-roupas.,pirulito,CE,CE+S
+A,6,O homem vendeu revista no supermercado.,revista,CNE,CNE+S
+A,7,O adolescente derrubou romãs na cozinha.,romãs,CE,CE+P
+A,8,A vizinha deu travesseiros para o homem.,travesseiros,CNE,CNE+P
+A,9,A criança jogou ovo na rua.,ovo,CE,CE+S
+A,10,O trabalhador vendeu foto na praia.,foto,CNE,CNE+S
+A,11,A veterinária deixou bananas na floresta.,bananas,CE,CE+P
+A,12,O fazendeiro limpou gravetos do campo.,gravetos,CNE,CNE+P
+A,13,O rancheiro pegou bergamota da fazenda.,bergamota,CE,CE+S
+A,14,A menina perdeu calça na viagem. ,calça,CNE,CNE+S
+A,15,A mulher pediu bolos na cafeteria.,bolos,CE,CE+P
+A,16,O menino viu bolas no jardim.,bolas,CNE,CNE+P
+B,1,O cozinheiro colocou colher no prato.,colher,CNE,CNE+S
+B,2,A mãe colocou batatas no vaso.,batatas,CE,CE+P
+B,3,O professor trouxe canetas da escola.,canetas,CNE,CNE+P
+B,4,A aluna trouxe pera da feira.,pera,CE,CE+S
+B,5,A diarista encontrou meia no guarda-roupas.,meia,CNE,CNE+S
+B,6,O homem vendeu abacaxis no supermercado.,abacaxis,CE,CE+P
+B,7,O adolescente derrubou pratos na cozinha.,pratos,CNE,CNE+P
+B,8,A vizinha deu laranja para o homem.,laranja,CE,CE+S
+B,9,A criança jogou pedra na rua.,pedra,CNE,CNE+S
+B,10,O trabalhador vendeu melancias na praia.,melancias,CE,CE+P
+B,11,A veterinária deixou madeiras na floresta.,madeiras,CNE,CNE+P
+B,12,O fazendeiro limpou uva do campo.,uva,CE,CE+S
+B,13,O rancheiro pegou pá da fazenda.,pá,CNE,CNE+S
+B,14,A menina perdeu biscoitos na viagem. ,biscoitos,CE,CE+P
+B,15,A mulher pediu garfos na cafeteria.,garfos,CNE,CNE+P
+B,16,O menino viu cenoura no jardim.,cenoura,CE,CE+S
+C,1,O cozinheiro colocou abacates no prato.,abacates,CE,CE+P
+C,2,A mãe colocou flores no vaso.,flores,CNE,CNE+P
+C,3,O professor trouxe maçã da escola.,maçã,CE,CE+S
+C,4,A aluna trouxe livro da feira.,livro,CNE,CNE+S
+C,5,A diarista encontrou pirulitos no guarda-roupas.,pirulitos,CE,CE+P
+C,6,O homem vendeu revistas no supermercado.,revistas,CNE,CNE+P
+C,7,O adolescente derrubou romã na cozinha.,romã,CE,CE+S
+C,8,A vizinha deu travesseiro para o homem.,traveisseiro,CNE,CNE+S
+C,9,A criança jogou ovos na rua.,ovos,CE,CE+P
+C,10,O trabalhador vendeu fotos na praia.,fotos,CNE,CNE+P
+C,11,A veterinária deixou banana na floresta.,banana,CE,CE+S
+C,12,O fazendeiro limpou graveto do campo.,graveto,CNE,CNE+S
+C,13,O rancheiro pegou bergamotas da fazenda.,bergamotas,CE,CE+P
+C,14,A menina perdeu calças na viagem. ,calças,CNE,CNE+P
+C,15,A mulher pediu bolo na cafeteria.,bolo,CE,CE+S
+C,16,O menino viu bola no jardim.,bola,CNE,CNE+S
+D,1,O cozinheiro colocou colheres no prato.,colheres,CNE,CNE+P
+D,2,A mãe colocou batata no vaso.,batata,CE,CE+S
+D,3,O professor trouxe caneta da escola.,caneta,CNE,CNE+S
+D,4,A aluna trouxe peras da feira.,peras,CE,CE+P
+D,5,A diarista encontrou meias no guarda-roupas.,meias,CNE,CNE+P
+D,6,O homem vendeu abacaxi no supermercado.,abacaxi,CE,CE+S
+D,7,O adolescente derrubou prato na cozinha.,prato,CNE,CNE+S
+D,8,A vizinha deu laranjas para o homem.,laranjas,CE,CE+P
+D,9,A criança jogou pedras na rua.,pedras,CNE,CNE+P
+D,10,O trabalhador vendeu melancia na praia.,melancia,CE,CE+S
+D,11,A veterinária deixou madeira na floresta.,madeira,CNE,CNE+S
+D,12,O fazendeiro limpou uvas do campo.,uvas,CE,CE+P
+D,13,O rancheiro pegou pás da fazenda.,pás,CNE,CNE+P
+D,14,A menina perdeu biscoito na viagem. ,biscoito,CE,CE+S
+D,15,A mulher pediu garfo na cafeteria.,garfo,CNE,CNE+S
+D,16,O menino viu cenouras no jardim.,cenouras,CE,CE+P
